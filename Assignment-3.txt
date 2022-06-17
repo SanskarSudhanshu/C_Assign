@@ -1,0 +1,12 @@
+1.There are eight primitive data types in C.
+  i.int  ii.float  iii.char  iv.double  v.long  vi.short
+  vii. byte  viii. boolean.
+2.Non decleration statement can be written outside the function body.
+3.The size of float type variable is 4 bytes.
+4. gargbage value.
+5.float have 4 byte and double have 8 bytes so double can store more value than float.
+6.ASCII-American Standard Code for Information Interchange.
+7.Keywords are predifined and Function is user defined.
+8.Type modifier are special keywords that are used to modify the range of the data types and also the memory space  allocated to the variable.
+9.yes we can assign a character constant in an int variable.
+10.NO,Every block of code is not a function.
