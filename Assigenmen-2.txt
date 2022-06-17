@@ -1,0 +1,9 @@
+1. Real constant :- 4.5,3.0,-0.0
+2.dynamic,define,is,this,super are not keywords in c language.
+4.no
+5.keywords meaning is stored in the library 
+6.RAM
+7.Dennish Ritchie
+8.1972
+9.Unix
+10.yes C is high level language or low level language programming.
